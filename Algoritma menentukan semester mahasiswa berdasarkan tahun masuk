@@ -1,0 +1,7 @@
+Inisiasi : 1. Tahun masuk 
+           2. Tahun sekarang 
+Proses   : 3. Hitung selisih tahun = tahun sekarang-tahun masuk
+         : 4. Hitung selisih semester:
+              - jika selisih tahun genap (januari-juni) maka semester= selisih tahun x 2
+              - jika selisih tahun ganjil (Juli-Desember) maka semester= selisih tahun x 2 (+1)
+Output   : 5. 
