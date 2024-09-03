@@ -1,0 +1,3 @@
+Inisiasi  : Masukkan bilangan angka.
+Proses    : Jika bilangan angka dibagi menjadi 2 dan hasilnya 0 maka bilangan angka tersebut genap, jika tidak maka bilangan angka tersebut ganjil.
+Output    : Cetak bilangan angka.
